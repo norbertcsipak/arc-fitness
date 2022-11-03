@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src='https://cdn.shopify.com/s/files/1/0645/6075/9038/files/ARC_Logo.png?v=1653388287&width=180' className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Let's create ARC Fitness WOD app!
         </p>
         <a
           className="App-link"
